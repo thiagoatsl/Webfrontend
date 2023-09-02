@@ -1,0 +1,60 @@
+body {
+    background-color: #c9fbd680;
+}
+
+#cabeçalho, #rodape {
+    background-color: #3d7a4dc7;
+    color: #042c00f6;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 900;
+    text-shadow: 2px 2px 5px white;
+}
+
+.titulo {
+    background-color: #3d7a4d69;
+    color: #ffffff;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 750;
+    text-indent: 20px;
+    text-shadow: 2px 2px 4px #042c00;
+
+}
+
+.subtitulo {
+    font-weight: bold;
+    text-decoration: underline dashed;
+    text-indent: 20px;
+}
+
+
+figcaption {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-shadow: 2px 2px 5px #3d7a4dc7;
+    font-style: italic;
+}
+
+.texto {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #2e0d03;
+    text-indent: 10px;
+}
+
+figure{
+    text-align: center;
+
+}
+
+a{
+    color: #627A68;
+}
+
+a:hover {
+    color: rgb(0, 150, 20);
+}
+
+
+a[href="https://github.com/thiagoatsl"] {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
